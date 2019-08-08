@@ -1,0 +1,11 @@
+{
+  "name": "envimport",
+  "version": "1.0.0",
+  "description": "Imports SQL viable text into new JSON object",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Andrews <alexander.e.andrews.ce@gmail.com>",
+  "license": "ISC"
+}
